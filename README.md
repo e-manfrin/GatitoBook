@@ -6,11 +6,6 @@ Repositório relativo ao projeto Dsmeta nas linguagens Angular + TS.
 <img width="627" >
 </div>
 
-## Linkedin
-
-https://www.linkedin.com/in/emily-keyt-manfrin-9601b489/
-
-
 # Tecnologias: 
 
 <div style="display: inline_block theme=radical" align="center"><br>
@@ -26,3 +21,7 @@ Projeto GatitoBook:
 ## Objetivos do projeto : 📖
 
 - Projeto de cadastro e login em Angular.
+
+## Linkedin
+
+https://www.linkedin.com/in/emily-keyt-manfrin-9601b489/
